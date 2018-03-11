@@ -1,6 +1,6 @@
 # PC-controlled-LED using BT
 
-###Note 
+### Note 
 ```
 It's recommended to use the latest and legitimate version of Windows and .NetFramework available. So,that application runs without any issues.
 ```
