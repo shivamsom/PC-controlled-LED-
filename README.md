@@ -6,7 +6,7 @@ It's recommended to use the latest and legitimate version of Windows and .NetFra
 ```
 The source code of the application is not included if anybody wants mail me at:shivamsom3@gmail.com
 
-##Sample Images
+## Project Images
 ### 1. Open the highlighted.
 
 ![screenshot 83](https://user-images.githubusercontent.com/22167688/30001595-25f2d74a-90b0-11e7-8eb0-b367d6c0170b.png)
